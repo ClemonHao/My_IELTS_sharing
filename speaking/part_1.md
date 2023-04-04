@@ -305,3 +305,135 @@ Are you good at reading maps?
 
 What is your favorite type of environment?
 
+## NAMES
+
+Does your name have any special meaning?
+
+What kind of name is popular in your country?
+
+Are there many Chinese people who have the same name as yours?
+
+Is there any tradition about naming babies?
+
+## SNACKS
+
+What snacks do you like to eat?
+
+Did you often eat snacks when you were young?
+
+When do you usually eat snacks now?
+
+Do you think it is healthy for you to eat snacks?
+
+## SINGING
+
+Do you like singing?
+
+Why do people sing?
+
+Have you ever had singing lesson?
+
+Do you think singing can bring happiness to people?
+
+## THE AREA YOU LIVE IN
+
+DO you like the area that you live in?
+
+What are some changes in this area recently?
+
+Do you know any famous people in your area?
+
+Where do you like to go in that area?
+
+## YOUR HOMETOWN
+
+Where is your hometown?
+
+What are some things you dislike about your hometown?
+
+Do you want to live there forever?
+
+Will you move to another places?
+
+Do you like your hometown?
+
+Have any changes happeded in your hometown? Do you like them? Why?
+
+How many people are there in your family?
+
+Where do they come from?
+
+Is it suitable for the elderly or the young to live?
+
+How is the transportation in this city?
+
+Does everyone need to learn how to drive?
+
+Do you parents live in the same city?
+
+Is your hometown suitable for growing up?
+
+Do you think your hometown is a good city? Why?
+
+Can you recommend a place in your hometown?
+
+Is there anything special about your hometown?
+
+What would you introduce to travellers in your hometown?
+
+What do you think are the beautiful views in your hometown?
+
+Where do you come from?
+
+What tourist attractions are there in your hometown?
+
+Did you learn much about the history of your hometown?
+
+What do you like most about your hometown?
+
+What do you think need to change in your hometown?
+
+
+## ACCOMMODATIONS
+
+Where do you live?
+
+Do you live in a house or a dorm?
+
+Which one do you prefer? apartment or house?
+
+Is it a convenient place to live in?
+
+Are there any facilities in the place you live in?
+
+Which room do you like best in your apartment?
+
+What do you dislike about this place?
+
+What kind of people live nearby?
+
+Are there any famous people living near your home?
+
+Who do you live with?
+
+Do you think it's a suitable place fo living?
+
+Is it a suitable place to raise a child?
+
+Do you know your neighbours well?
+
+What are the upsides and downsides of the place that you live in?
+
+Will you stay in that place for a very long time?
+
+Would you like to change where you live?
+
+Where do you want to live in the future?
+
+Is it suitable for kids and the elderly to live?
+
+Do you live with your parents, Why?
+
+Which kind of houses do young people want to live in?
+
+
